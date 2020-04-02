@@ -1,4 +1,4 @@
 # MyDiscordBot
 
-Bot discord perso, en cours de développement. #NodeJS
+Bot for my personnal discord server #workInProgress
 
